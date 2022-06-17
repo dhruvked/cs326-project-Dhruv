@@ -3,7 +3,7 @@
     <li><h2>EasyLine</h2></li>
     <li>
         <h2>Team Overview</h2>
-        Dhruv Kedia (dhruvked)
+        <p>Dhruv Kedia (dhruvked)</p>
     </li>
     <l1>
         <h2>Application Idea</h2>
